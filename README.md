@@ -1,7 +1,6 @@
 # Auto-set-featured-image
  Create auto set featured image - Wordpress
 ### Hi there 👋
-- 🔭 I’m currently managing PT. CLEOVA INOVASI TEKNOLOGI
 - 💬 Ask me about WordPress and WooCommerce
 - 📫 How to reach me: support@cleova.com
 
